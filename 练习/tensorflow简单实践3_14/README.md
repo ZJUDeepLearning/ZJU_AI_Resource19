@@ -49,5 +49,5 @@ pip install https://storage.googleapis.com/tensorflow/linux/cpu/tensorflow-0.9.0
 
 每次输入多个数据（按batch输入）加速训练
 
-可以通过百度网盘下载 链接：https://pan.baidu.com/s/1WhbczKhvA5vdDT-UxASAJw 
-提取码：rv0q 
+可以通过百度网盘下载 链接：https://pan.baidu.com/s/19CYP3AbfRfnUtg_2l7VClg 
+提取码：qiom 

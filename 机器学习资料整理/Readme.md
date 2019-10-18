@@ -16,7 +16,7 @@
 
 B站视频链接：https://www.bilibili.com/video/av48285039?from=search&seid=571797636600083163
 
-学习笔记：https://github.com/datawhalechina/leeml-notes （在不断更新）
+参考学习笔记：https://github.com/datawhalechina/leeml-notes （在不断更新）
 
 学过吴恩达的课同样可以看一下李宏毅老师的课程，讲的很详细有趣，分析的角度很适合初学者入门
 
@@ -29,4 +29,12 @@ B站视频链接：https://www.bilibili.com/video/av48285039?from=search&seid=57
 
 （课程已下架，视频还是可以看的，B站也有相关资源）
 
-学习笔记：https://github.com/mbadry1/CS231n-2017-Summary
+参考学习笔记：https://github.com/mbadry1/CS231n-2017-Summary
+
+##### CS224n（基于深度学习的自然语言处理）
+
+主要介绍深度学习在NLP领域的应用
+
+B站链接：https://www.bilibili.com/video/av61620135?from=search&seid=17046183642011380512
+
+参考学习笔记：https://blog.csdn.net/weixin_37251044/article/details/83473874

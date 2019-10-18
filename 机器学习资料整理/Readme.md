@@ -1,6 +1,6 @@
-####机器学习入门资料整理
+#### 机器学习入门资料整理
 
-#####吴恩达DeepLearning.ai课程（英文授课，中文字幕）
+##### 吴恩达DeepLearning.ai课程（英文授课，中文字幕）
 
 网易云课堂链接：https://mooc.study.163.com/university/deeplearning_ai#/c
 
@@ -12,7 +12,7 @@
 
 
 
-#####李宏毅机器学习课程（中文授课）
+##### 李宏毅机器学习课程（中文授课）
 
 B站视频链接：https://www.bilibili.com/video/av48285039?from=search&seid=571797636600083163
 

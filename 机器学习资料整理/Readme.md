@@ -21,6 +21,7 @@ B站视频链接：https://www.bilibili.com/video/av48285039?from=search&seid=57
 学过吴恩达的课同样可以看一下李宏毅老师的课程，讲的很详细有趣，分析的角度很适合初学者入门
 
 
+
 ##### CS231n（面向视觉识别的卷积神经网络）
 
 主要介绍深度学习在视觉领域的应用（CNN为主）
@@ -30,6 +31,8 @@ B站视频链接：https://www.bilibili.com/video/av48285039?from=search&seid=57
 （课程已下架，视频还是可以看的，B站也有相关资源）
 
 参考学习笔记：https://github.com/mbadry1/CS231n-2017-Summary
+
+
 
 ##### CS224n（基于深度学习的自然语言处理）
 
